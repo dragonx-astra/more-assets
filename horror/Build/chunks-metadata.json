@@ -1,0 +1,53 @@
+{
+  "64abbec2f88a03563b717f5964ff9276.wasm.br": {
+    "chunks": [
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk0",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk1",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk2",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk3",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk4",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk5",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk6",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk7",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk8",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk9",
+      "64abbec2f88a03563b717f5964ff9276.wasm.br.chunk10"
+    ],
+    "totalSize": 54898129,
+    "chunkSize": 5242880
+  },
+  "728121e7c659be57f9f9e2176c5a8e6f.data.br": {
+    "chunks": [
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk0",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk1",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk2",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk3",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk4",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk5",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk6",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk7",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk8",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk9",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk10",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk11",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk12",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk13",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk14",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk15",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk16",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk17",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk18",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk19",
+      "728121e7c659be57f9f9e2176c5a8e6f.data.br.chunk20"
+    ],
+    "totalSize": 104897057,
+    "chunkSize": 5242880
+  },
+  "e3d224c7579ce482432b81cb09f2d68e.framework.js.br": {
+    "chunks": [
+      "e3d224c7579ce482432b81cb09f2d68e.framework.js.br.chunk0"
+    ],
+    "totalSize": 456817,
+    "chunkSize": 5242880
+  }
+}
