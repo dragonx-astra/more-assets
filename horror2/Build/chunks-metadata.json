@@ -1,0 +1,34 @@
+{
+  "fe9567cf0aace2685fc8453678f1cb76.data.br": {
+    "chunks": [
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk0",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk1",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk2",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk3",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk4",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk5",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk6",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk7",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk8",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk9",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk10",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk11",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk12",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk13",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk14",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk15",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk16",
+      "fe9567cf0aace2685fc8453678f1cb76.data.br.chunk17"
+    ],
+    "totalSize": 93020184,
+    "chunkSize": 5242880
+  },
+  "8ddf4f9a7d0cf954c5002648afb6a756.wasm.br": {
+    "chunks": [
+      "8ddf4f9a7d0cf954c5002648afb6a756.wasm.br.chunk0",
+      "8ddf4f9a7d0cf954c5002648afb6a756.wasm.br.chunk1"
+    ],
+    "totalSize": 9607117,
+    "chunkSize": 5242880
+  }
+}
