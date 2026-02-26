@@ -1,0 +1,19 @@
+{
+  "020152f4c155641fce85a083324f15c3.data.unityweb": {
+    "chunks": [
+      "020152f4c155641fce85a083324f15c3.data.unityweb.chunk0",
+      "020152f4c155641fce85a083324f15c3.data.unityweb.chunk1"
+    ],
+    "totalSize": 7642035,
+    "chunkSize": 5242880
+  },
+  "1730f2bf3cd8b945ccd547a697eb748e.wasm.unityweb": {
+    "chunks": [
+      "1730f2bf3cd8b945ccd547a697eb748e.wasm.unityweb.chunk0",
+      "1730f2bf3cd8b945ccd547a697eb748e.wasm.unityweb.chunk1",
+      "1730f2bf3cd8b945ccd547a697eb748e.wasm.unityweb.chunk2"
+    ],
+    "totalSize": 11762847,
+    "chunkSize": 5242880
+  }
+}
